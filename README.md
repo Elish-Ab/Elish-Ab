@@ -39,4 +39,4 @@ Feel free to explore these projects and reach out if you have any questions or f
 
 If you find my work helpful, consider buying me a coffee! ☕😊
 
-[![Buy Me a Coffee](buymeacoffee.com/elishab)](buymeacoffee.com/elishab)
+[![Buy Me a Coffee](https:/?buymeacoffee.com/elishab)](https://buymeacoffee.com/elishab)
