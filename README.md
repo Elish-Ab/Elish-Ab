@@ -1,9 +1,11 @@
 # Hi there! 👋 I'm Elisha Abriham
 
-Welcome to my GitHub repository! I'm a backend developer with a passion for building innovative projects using various technologies. Here are some of the projects I've worked on:
+Welcome to my GitHub repository! I'm a backend developer with a passion for building innovative projects using various technologies. Here are some of the projects I've worked on :
+
+![photo_2022-07-08_23-30-14-removebg-preview](https://github.com/user-attachments/assets/57f4aa08-679c-4b75-8adb-eeca635cbad5)
 
 ## Projects 🚀
-
+For the code, please visit my Repositories. 
 ### Health-guard
 Health-guard is a platform that connects university students with mental health professionals. Students can chat, book services, and more.
 - **Tech Stack**: Tailwind CSS, HTML, CSS, JS, Laravel, MySQL.
@@ -33,10 +35,11 @@ Feel free to explore these projects and reach out if you have any questions or f
 
 - LinkedIn: [Connect with me](linkedin.com/in/elisha-abriham-123135254/)
 - Twitter: [Follow me](https://x.com/elishabu28)
-- Personal Website: elishab.vercel.app
+- Personal Website: [visit](https://elishab.vercel.app)
 
 ## Support ☕
 
 If you find my work helpful, consider buying me a coffee! ☕😊
 
-[![Buy Me a Coffee](https:/?buymeacoffee.com/elishab)](https://buymeacoffee.com/elishab)
+
+[![Buy Me a Coffee](https://buymeacoffee.com/elishab)](https://buymeacoffee.com/elishab)
