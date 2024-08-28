@@ -16,12 +16,17 @@ An API for university event management where individuals with different roles ca
 EduResource is a platform for university students to find educational resources, upload content, and publish blog posts.
 - **Tech Stack**: Tailwind CSS, Laravel, Bootstrap, HTML, CSS, JS.
 
+### Betoch
+Betoch is a platform is a place to find realstate in Addis Ababa. I have done it's frontend only. But I have a plan to build the backkend and integrate with this project.
+- **Tech Stack**: React.
+
 ### Web Scraping Projects
 I've worked on several web scraping projects using Python.
 
 ### Projects on Google Colab
 I've also completed various projects using Python on Google Colab.
 
+### I have 
 Feel free to explore these projects and reach out if you have any questions or feedback!
 
 ## Let's Connect! 🌐
