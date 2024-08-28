@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Elisha Abriham
 
-Welcome to my GitHub repository! I'm a backend developer with a passion for building innovative projects using various technologies. Here are some of the projects I've worked on :
+Welcome to my GitHub repository! I'm a software developer with a passion for building innovative projects using various technologies. Here are some of the projects I've worked on :
 
 ![photo_2022-07-08_23-30-14-removebg-preview](https://github.com/user-attachments/assets/57f4aa08-679c-4b75-8adb-eeca635cbad5)
 
