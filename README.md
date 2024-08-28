@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm a software developer with a passion for bui
 
 ## Projects 🚀
 For the code, please visit my Repositories. 
-### Health-guard
+### [Health-guard](https://healthguard.biruklemma.com/)
 Health-guard is a platform that connects university students with mental health professionals. Students can chat, book services, and more.
 - **Tech Stack**: Tailwind CSS, HTML, CSS, JS, Laravel, MySQL.
 
@@ -33,7 +33,7 @@ Feel free to explore these projects and reach out if you have any questions or f
 
 ## Let's Connect! 🌐
 
-- LinkedIn: [Connect with me](linkedin.com/in/elisha-abriham-123135254/)
+- LinkedIn: [Connect with me](https://linkedin.com/in/elisha-abriham-123135254/)
 - Twitter: [Follow me](https://x.com/elishabu28)
 - Personal Website: [visit](https://elishab.vercel.app)
 
