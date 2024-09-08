@@ -28,7 +28,7 @@ I've worked on several web scraping projects using Python.
 ### Projects on Google Colab
 I've also completed various projects using Python on Google Colab.
 
-### I have 
+### Feedback Counts 
 Feel free to explore these projects and reach out if you have any questions or feedback!
 
 ## Let's Connect! 🌐
